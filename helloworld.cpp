@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(void){
-	std::cout<<"yuh"<<std::endl;
+	std::cout<<"nuh"<<std::endl;
 	return 0;
 }
